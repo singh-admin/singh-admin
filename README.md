@@ -1,9 +1,3 @@
-### Hi there 👋
-
-<!--
-**singh-admin/singh-admin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 <svg width="550" height="350" viewBox="0 0 550 350" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <style>
@@ -334,7 +328,7 @@ Here are some ideas to get you started:
     <rect width="513" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">
       You can find me on Twitter at
-      <a xlink:href="https://twitter.com/jasonlong">https://twitter.com/jasonlong</a>
+      <a xlink:href="https://twitter.com/singh">https://twitter.com/singh</a>
     </text>
   </g>
 
