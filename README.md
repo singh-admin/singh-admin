@@ -87,8 +87,8 @@
 
 ### 📣 Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/your-profile" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin" /></a>
-<a href="mailto:your.email@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail.png" alt="gmail"/></a>
+<a href="https://www.linkedin.com/in/mrigendra-singh-b2090a187/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin" /></a>
+<a href="mailto:mrigendrasingh434@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail.png" alt="gmail"/></a>
 </p>
 
 ---
