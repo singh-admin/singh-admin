@@ -4,7 +4,7 @@
 ![run](https://user-images.githubusercontent.com/61795935/230757576-8abd0e56-81bf-41af-b3cd-16a49473ad73.svg)
 
 <h1 align="center">Hey 👋, I'm Mrigendra Singh</h1>
-<h3 align="center">A passionate backend developer and automation enthusiast from India</h3>
+<h3 align="center">A passionate backend developer and automation enthusiast from India, I bring over 2 years of hands-on experience in backend development using Python, Django, and FastAPI. I have built scalable API systems, integrated third-party services like Stripe, and utilized tools such as RabbitMQ and Kubernetes to deploy production-ready applications. My work emphasizes performance optimization, security, and clean architecture, aligning with modern best practices in backend development.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
