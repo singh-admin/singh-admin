@@ -80,8 +80,8 @@
 
 ### 🌟 Top Projects:
 - 🔗 [API OAuth2 Backend](https://github.com/mrigendrasingh/your-backend-project)
-- 🔗 [Automation Scripts](https://github.com/mrigendrasingh/automation-scripts)
-- 🔗 [React Portfolio Website](https://github.com/mrigendrasingh/portfolio-website)
+- 🔗 [url-shortener-k8s](https://github.com/singh-admin/url-shortener-k8s)
+- 🔗 [fastapi_throttling](https://github.com/singh-admin/fastapi_throttling)
 
 ---
 
