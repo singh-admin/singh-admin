@@ -10,8 +10,10 @@
 </p>
 
 <p align="center">
-  🚀 <strong>Passionate Backend Developer & Automation Enthusiast from India 🇮🇳</strong>
+  🚀 <strong>Passionate Backend Developer & Automation Enthusiast from India 
+  <img width="24" height="24" src="https://img.icons8.com/color/48/india.png" alt="india-flag" style="vertical-align: middle;"/> </strong>
 </p>
+
 
 <p align="center">
   🎯 With over <strong>2+ years of hands-on experience</strong> in backend development using Python, Django, and FastAPI.  
