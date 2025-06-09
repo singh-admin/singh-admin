@@ -4,7 +4,28 @@
 ![run](https://user-images.githubusercontent.com/61795935/230757576-8abd0e56-81bf-41af-b3cd-16a49473ad73.svg)
 
 <h1 align="center">Hey 👋, I'm Mrigendra Singh</h1>
-<h3 align="center">A passionate backend developer and automation enthusiast from India, I bring over 2 years of hands-on experience in backend development using Python, Django, and FastAPI. I have built scalable API systems, integrated third-party services like Stripe, and utilized tools such as RabbitMQ and Kubernetes to deploy production-ready applications. My work emphasizes performance optimization, security, and clean architecture, aligning with modern best practices in backend development.</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Z21ubWk0ajNtOGU0NW90bW1xc2ttbGQzNDBvM3g5cGcxdnZzcDFycCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MT5UUV1d4CXE2A37Dg/giphy.gif" width="250" alt="coder cartoon gif" />
+</p>
+
+<p align="center">
+  🚀 <strong>Passionate Backend Developer & Automation Enthusiast from India 🇮🇳</strong>
+</p>
+
+<p align="center">
+  🎯 With over <strong>2+ years of hands-on experience</strong> in backend development using Python, Django, and FastAPI.  
+  I specialize in building scalable API systems, integrating third-party services like <strong>Stripe</strong>, and deploying production-ready apps with tools like <strong>RabbitMQ</strong> and <strong>Kubernetes</strong>.
+</p>
+
+<p align="center">
+  💡 My work focuses on <strong>performance optimization, clean architecture, security</strong>, and aligning with modern backend development best practices.
+</p>
+
+<p align="center">
+  ✨ Let's connect and build something awesome together!
+</p>
+
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
