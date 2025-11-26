@@ -88,7 +88,7 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=singh-admin&show_icons=true&theme=radical" alt="singh-admin" />
+  <img src="https://github-readme-stats.vercel.app/api?username=singh-admin&show_icons=true&theme=radical" />
 </p>
 
 ---
