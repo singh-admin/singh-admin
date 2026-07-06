@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 
-![run](https://user-images.githubusercontent.com/61795935/230757576-8abd0e56-81bf-41af-b3cd-16a49473ad73.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/singh-admin/singh-admin/main/banner.png" alt="Banner" width="100%">
+</p>
 
 <h1 align="center">Hey 👋, I'm Mrigendra Singh</h1>
 
