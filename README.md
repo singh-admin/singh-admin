@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/singh-admin/singh-admin/main/banner.png" alt="Banner" width="100%">
 </p>
