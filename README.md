@@ -16,7 +16,7 @@
 
 
 <p align="center">
-  🎯 With over <strong>2+ years of hands-on experience</strong> in backend development using Python, Django, and FastAPI.  
+  🎯 With over <strong>3+ years of hands-on experience</strong> in backend development using Python, Django, and FastAPI.  
   I specialize in building scalable API systems, integrating third-party services like <strong>Stripe</strong>, and deploying production-ready apps with tools like <strong>RabbitMQ</strong> and <strong>Kubernetes</strong>.
 </p>
 
