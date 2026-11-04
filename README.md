@@ -87,7 +87,7 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=singh-admin&show_icons=true&theme=transparent" alt="GitHub Stats" />
+      <img src="https://github-stats-extended.vercel.app/api?username=singh-admin&show_icons=true&theme=transparent" alt="GitHub Stats" />
 </p>
 
 ---
@@ -95,7 +95,7 @@
 ### 📈 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=singh-admin&theme=radical" alt="singh-admin" />
+      <img src="https://streak-stats.demolab.com/?user=singh-admin&theme=radical" alt="singh-admin" />
 </p>
 
 ---
